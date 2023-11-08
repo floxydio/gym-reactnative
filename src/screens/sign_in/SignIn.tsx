@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, Pressable, Alert } from 'react-native'
 import React, { useEffect } from 'react'
-import { Color } from '../../constant/color'
+import { Color } from '../../constant/Color'
 import auth from '@react-native-firebase/auth';
 import { GoogleSignin, GoogleSigninButton } from '@react-native-google-signin/google-signin';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';

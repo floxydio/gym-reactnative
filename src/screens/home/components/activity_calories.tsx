@@ -1,6 +1,6 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import { Color } from '../../../constant/color'
+import { Color } from '../../../constant/Color'
 
 export default function ActivityCalories() {
     return (

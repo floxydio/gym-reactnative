@@ -3,7 +3,7 @@ import React from 'react'
 import Icon from "react-native-vector-icons/Entypo"
 import IconFontisto from "react-native-vector-icons/Fontisto"
 import FeatherIcon from "react-native-vector-icons/Feather"
-import { Color } from '../../../constant/color'
+import { Color } from '../../../constant/Color'
 import iconStar from "../../../assets/home/menu_icon_star.png"
 import LinearGradient from 'react-native-linear-gradient';
 import beachIcon from "../../../assets/home/menu_icon_two.png"

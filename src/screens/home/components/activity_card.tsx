@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, Pressable, Image } from 'react-native'
 import React from 'react'
-import { Color } from '../../../constant/color'
+import { Color } from '../../../constant/Color'
 import { NativeStackNavigationProp } from '@react-navigation/native-stack'
 import bgImage from "../../../assets/splash/splash_icon.png"
 import eclipse from "../../assets/home/eclipse.png"

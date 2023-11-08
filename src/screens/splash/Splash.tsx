@@ -1,8 +1,7 @@
 import React from 'react'
 import { Button, Image, Pressable, StyleSheet, Text, Touchable, View } from 'react-native'
-import { Color } from '../../constant/color'
+import { Color } from '../../constant/Color'
 import circle from '../../assets/splash/circle.png'
-import girlBg from '../../assets/splash/splash_icon.png'
 import { NativeStackNavigationProp } from '@react-navigation/native-stack'
 import Icon from 'react-native-vector-icons/Ionicons'
 
@@ -25,7 +24,7 @@ export default function SplashPage({ navigation }: { navigation: NativeStackNavi
         right: 0,
         marginRight: 20,
         marginBottom: 20
-        
+
 
       }} />
     </View >

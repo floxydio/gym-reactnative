@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react'
 import { View, Text, StyleSheet, Pressable, Image, FlatList, ScrollView, Switch } from "react-native"
-import { Color } from '../../constant/color'
-import { mockDate } from '../../mocks/date_mocks'
-import BarChart from '../../components/BarChart'
+import { Color } from '../../constant/Color'
 import IconMenu from '../../components/IconMenu'
 import { NativeStackNavigationProp } from '@react-navigation/native-stack'
 import { GoogleSignin, User } from '@react-native-google-signin/google-signin'
 import ActivityCardComponent from './components/activity_card'
 import ActivityCalories from './components/activity_calories'
 import SoftHome from './components/soft_home'
+import { mockDate } from '../../../mocks/date_mocks'
+import BarChart from './components/bar_chart'
 
 
 

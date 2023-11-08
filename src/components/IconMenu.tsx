@@ -2,7 +2,7 @@ import { View, Text, Image, FlatList } from 'react-native'
 import React from 'react'
 import barbelIcon from '../assets/home/barbel_icon.png'
 import kcalIcon from '../assets/home/kcal_icon.png'
-import { Color } from '../constant/color'
+import { Color } from '../constant/Color'
 
 const dataMock = [
     {

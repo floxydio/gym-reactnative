@@ -2,7 +2,6 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import Home from './Home';
 import Maps from '../maps/Maps';
 import Icon from 'react-native-vector-icons/FontAwesome';
-import { View } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
 import Social from '../social/Social';
 
