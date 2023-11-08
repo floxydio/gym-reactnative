@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982588423241",
+    "project_id": "gymreactnative",
+    "storage_bucket": "gymreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982588423241:android:c0d7bb32ec0091faf71398",
+        "android_client_info": {
+          "package_name": "com.gymrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982588423241-17kctrl9hq4du40aktppjm7mgr6ht9n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gymrn",
+            "certificate_hash": "39921f15c4dac8387404b5d81d95e2e83b8077b4"
+          }
+        },
+        {
+          "client_id": "982588423241-6mfn1jra7t6o9ct8ho1pop5qtb3593jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7iyTI1I-2nhzGWSuNT1HLe7CxJbK36oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982588423241-6mfn1jra7t6o9ct8ho1pop5qtb3593jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
